@@ -13,8 +13,10 @@
    You can activate the python environment by running the following command:
    
   Mac OS / Linux
+  
       source mypython/bin/activate
   Windows
+  
       mypthon\Scripts\activate
    
   You should see the name of your virtual environment in brackets on your terminal line e.g. (mypython).
