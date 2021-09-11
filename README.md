@@ -39,10 +39,12 @@
 |PyJWT | 2.1.0|
 |sqlparse|0.4.1|
 
-## Command 
-  The command used to run the server
-  
-   python manage.py runserver
+## Commands
+ Go to cattle_manager using the following command :
+    
+    cd cattle_manager
+ Run the server using the following command :
+    python manage.py runserver
 
 
 
