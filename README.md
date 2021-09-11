@@ -21,16 +21,16 @@
 
 
 ## Packages
-Package                       Version
------------------------------ -------
-Django                        3.2
-djangorestframework           3.12.4
-djangorestframework-simplejwt 4.6.0
-Pillow                        8.2.0
-pip                           21.0.1
-psycopg2                      2.8.6
-PyJWT                         2.1.0
-sqlparse                      0.4.1
+|Package | Version|
+|---------|--------|
+|Django | 3.2|
+|djangorestframework | 3.12.4|
+|djangorestframework-simplejwt|4.6.0|
+|Pillow |8.2.0|
+|pip | 21.0.1|
+|psycopg2| 2.8.6|
+|PyJWT | 2.1.0|
+|sqlparse|0.4.1|
 
 
 
