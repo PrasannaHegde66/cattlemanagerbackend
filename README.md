@@ -60,9 +60,10 @@
 - Update the Animals
 - Generating the Report
 
-## Technologies
+## Technologies Used
  - Python Programming
  - Django Rest Framework
+ - PostgreSQL
 
 
 
