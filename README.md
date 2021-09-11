@@ -49,8 +49,7 @@
     python manage.py runserver
 
 ## Description
- A Django bases
-
+ A Django restframework based project which helps the user to store the details of their animals such that user gets the notification about his animal on date.
 
 ## Features
 - Authentication of Users using JWT
