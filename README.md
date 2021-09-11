@@ -39,6 +39,9 @@
 |PyJWT | 2.1.0|
 |sqlparse|0.4.1|
 
+## Command to run backend
+
+   ###### python manage.py runserver
 
 
 
