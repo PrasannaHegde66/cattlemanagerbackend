@@ -1,15 +1,16 @@
 # CATTLE MANAGEMENT SYSTEM
 
-## Set up Virtual Environment
-  ### Install virtualenv package
+## Project set up
+### Set up Virtual Environment
+  #### Install virtualenv package
    The virtualenv package is required to create virtual environments. You can install it with pip:
    
     pip install virtualenv
-  ### Create the virtual environment
+  #### Create the virtual environment
    To create a virtual environment, you must specify a path. For example to create one in the local directory called ‘mypython’, type the following:
    
      virtualenv mypython
-  ### Activate the virtual environment
+  #### Activate the virtual environment
    You can activate the python environment by running the following command:
    
   Mac OS / Linux
@@ -21,13 +22,13 @@
    
   You should see the name of your virtual environment in brackets on your terminal line e.g. (mypython).
   Any python commands you use will now work with your virtual environment  
-  ### Deactivate the virtual environment
+  #### Deactivate the virtual environment
    To decativate the virtual environment and use your original Python environment, simply type ‘deactivate’.
       
      deactivate
 
 
-## Packages
+### Packages
 |Package | Version|
 |---------|--------|
 |Django | 3.2|
@@ -39,7 +40,7 @@
 |PyJWT | 2.1.0|
 |sqlparse|0.4.1|
 
-## Commands
+### Commands
  Go to cattle_manager using the following command :
     
     cd cattle_manager
@@ -47,8 +48,22 @@
  
     python manage.py runserver
 
+## Description
+ A Django bases
 
 
+## Features
+- Authentication of Users using JWT
+- Adding Animals of their Cattle
+- Stores all the information about the animal such as delivery date,gender,its childrens etc.
+- Notify the user about the Animal delivery date etc.
+- Search the Animals based on tag number.
+- Update the Animals
+- Generating the Report
+
+## Technologies
+ - Python Programming
+ - Django Rest Framework
 
 
 
