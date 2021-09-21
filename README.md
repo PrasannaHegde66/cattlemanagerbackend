@@ -52,7 +52,7 @@
  A Django restframework based project which helps the user to store the details of their animals such that user gets the notification about his animal on date.
 
 ## Features
-- Authentication of Users using JWT
+- Authentication of Users using Token
 - Adding Animals of their Cattle
 - Stores all the information about the animal such as delivery date,gender,its childrens etc.
 - Notify the user about the Animal delivery date etc.
